@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Job Instruction Trainer Audit</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_form">Form</string>
+    <string name="header1"><u>Step 1 - PREPARE THE WORKER</u></string>
+    <string name="header2"><u>Step 2 - PRESENT THE OPERATION</u></string>
+    <string name="header3"><u>Step 3 - TRY-OUT PERFORMANCE</u></string>
+    <string name="header4"><u>Step 4 - FOLLOW UP</u></string>
+
+</resources>
